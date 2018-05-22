@@ -1,0 +1,59 @@
+<grammar version="1.0" xml:lang="es-MX" root="rootRule"
+ xmlns="http://www.w3.org/2001/06/grammar">
+
+  <rule id="rootRule">
+  	<one-of>
+    	<item> casa </item>
+    	<item> hola </item>
+    	<item> perro </item>
+    	<item> mirar </item>
+    	<item> oler </item>
+      <item> agua </item>
+    	<item> arbol </item>
+    	<item> amigo </item>
+    	<item> avion </item>
+    	<item> azul </item>
+      <item> barco </item>
+    	<item> cielo </item>
+    	<item> comer </item>
+    	<item> flor </item>
+    	<item> gato </item>
+      <item> fresa </item>
+    	<item> hoja </item>
+    	<item> jugar </item>
+    	<item> leer </item>
+    	<item> libro </item>
+      <item> madre </item>
+    	<item> mesa </item>
+    	<item> oso </item>
+    	<item> padre </item>
+    	<item> pato </item>
+      <item> pera </item>
+    	<item> pez </item>
+    	<item> pollo </item>
+    	<item> queso </item>
+    	<item> rana </item>
+      <item> reir </item>
+    	<item> reloj </item>
+    	<item> rojo </item>
+    	<item> ropa </item>
+    	<item> silla </item>
+      <item> taza </item>
+    	<item> tren </item>
+    	<item> verde </item>
+    	<item> lapiz </item>
+    	<item> pluma </item>
+      <item> ayer </item>
+    	<item> nuevo </item>
+    	<item> noche </item>
+      <item> dia </item>
+    	<item> mano </item>
+    	<item> ojos </item>
+    	<item> carro </item>
+    	<item> meses </item>
+      <item> hora </item>
+    	<item> bien </item>
+    </one-of>
+  </rule>
+
+</grammar>
